@@ -1,0 +1,11 @@
+﻿id,elements_a_reperer,observation
+B01,"Code E404, Python, version 3.11",Doublon potentiel avec B08
+B02,"E-mail, téléphone après tel :, code E404",E-mail/téléphone masqués
+B03,Montant 150 DH,150 et DH conservés
+B06,"Code E403, version 2.1",Code/version conservés
+B07,URL,URL masquée
+B08,"Message en majuscules, code E404, version 3.11",Doublon potentiel avec B01
+B09,Chaîne vide,Aucun token
+B11,"Téléphone après Tel :, e-mail",Téléphone/e-mail masqués
+B12,Heure 08:30,Heure conservée
+

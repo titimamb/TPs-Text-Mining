@@ -1,0 +1,30 @@
+{
+  "description": "Corpus synthétique pédagogique pour le TP TF-IDF et similarité cosinus. Textes fictifs créés pour l’enseignement ; aucune donnée personnelle réelle.",
+  "documents": [
+    {
+      "id": "D1",
+      "texte": "La réservation du billet de train se fait sur notre application mobile."
+    },
+    {
+      "id": "D2",
+      "texte": "Le billet de train peut être annulé depuis votre espace de réservation."
+    },
+    {
+      "id": "D3",
+      "texte": "Un abonnement de bus permet de voyager chaque jour dans la ville."
+    },
+    {
+      "id": "D4",
+      "texte": "Le service propose une réservation de chambre dans un hôtel proche de la gare."
+    },
+    {
+      "id": "D5",
+      "texte": "Pour réserver un billet de train consultez les horaires puis confirmez votre réservation."
+    }
+  ],
+  "requete_principale": "train billet réservation",
+  "autres_requetes": [
+    "bus abonnement ville",
+    "astronomie galaxie"
+  ]
+}
